@@ -354,15 +354,15 @@ The goal of this app is pretty simple, to list popular movies with their trailer
 
 
 
-# CONTRIBUTION
+# DEVELOPMENT GUIDE CONTRIBUTORS
 
 
 
--  [SUDHANSHU JOSHI](https://github.com/SJoshi7)  
+- [SUDHANSHU JOSHI](https://github.com/SJoshi7)  
 - [KRANTHI KIRAN](https://github.com/kranthik13) 
 - [ABHILASHA KUMARI](https://github.com/Abhilashak2k)   
 - [ARPIT KUMAR MISHRA](www.github.com/armish24)  
--  [SHAILESH KUMAR SAHU](https://github.com/shellkore)  
+- [SHAILESH KUMAR SAHU](https://github.com/shellkore)  
 - [PANKAJ YADAV](https://github.com/pankaj443)
 - [SHALINI NEGI](https://github.com/1SilverLining1) 
 - [SATYA PRAKASH](https://github.com/satya9500)   
