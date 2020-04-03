@@ -23,7 +23,7 @@ After forking this repo if you want you can remove the content below this. But i
 </div>
 
 <div>
-<h1> Day 1 </h1>
- <p> read firebase tutorials, and created account </p>
+<h1> Day  2</h1>
+ <p> abhi suro hua hai </p>
 </div>
  
