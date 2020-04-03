@@ -8,3 +8,22 @@ After forking this repo if you want you can remove the content below this. But i
 
 <hr>
 
+<div>
+<h1> Day 1 </h1>
+ <p> read firebase tutorials, and created account </p>
+ <p> things learned
+   <ol>
+  <li>firebase functions (background triggers and http triggers)</li>
+  <li>Endpoint Request and Callable</li>
+  <li>firestore</li>
+</ol>
+
+
+ </p>
+</div>
+
+<div>
+<h1> Day 1 </h1>
+ <p> read firebase tutorials, and created account </p>
+</div>
+ 
