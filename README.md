@@ -26,5 +26,11 @@ After forking this repo if you want you can remove the content below this. But i
 <h1> Day  2</h1>
  <p> started working on react component of newsfeeds </p>
 </div>
+
+
+<div>
+<h1> Day  3</h1>
+ <p> working on debuging, so i can proceed forward..in news feed </p>
+</div>
  
   - Project Repo : https://github.com/the-eppisai/social_media_network_reactjs_firebase <br>
