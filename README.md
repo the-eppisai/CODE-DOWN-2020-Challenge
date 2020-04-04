@@ -24,7 +24,7 @@ After forking this repo if you want you can remove the content below this. But i
 
 <div>
 <h1> Day  2</h1>
- <p> abhi suro hua hai </p>
+ <p> started working on react component of newsfeeds </p>
 </div>
  
   - Project Repo : https://github.com/the-eppisai/social_media_network_reactjs_firebase <br>
