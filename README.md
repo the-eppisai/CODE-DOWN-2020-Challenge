@@ -34,3 +34,11 @@ After forking this repo if you want you can remove the content below this. But i
 </div>
  
   - Project Repo : https://github.com/the-eppisai/social_media_network_reactjs_firebase <br>
+  <div>
+<h1> After Couple of Days..</h1>
+ <p> motivation was lost, left it for couple of days, now starting again, with new energy </p>
+</div>
+ <div>
+<h1 style=font-size:200px> Day 1</h1>
+ <p> Making firebase functions </p>
+</div>
