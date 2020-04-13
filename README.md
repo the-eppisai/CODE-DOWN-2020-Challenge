@@ -42,3 +42,10 @@ After forking this repo if you want you can remove the content below this. But i
 <h1 style=font-size:200px> Day 1</h1>
  <p> Making firebase functions </p>
 </div>
+<h1 style=font-size:200px> Day 1</h1>
+ <p> making login and signup page using firebase auth </p>
+</div>
+</div>
+ 
+  - New Project Repo : https://github.com/the-eppisai/social_media_network_reactjs_firebase <br>
+  <div>
