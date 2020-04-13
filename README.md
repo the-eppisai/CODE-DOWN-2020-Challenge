@@ -42,7 +42,7 @@ After forking this repo if you want you can remove the content below this. But i
 <h1 style=font-size:200px> Day 1</h1>
  <p> Making firebase functions </p>
 </div>
-<h1 style=font-size:200px> Day 1</h1>
+<h1 style=font-size:200px> Day 2</h1>
  <p> making login and signup page using firebase auth </p>
 </div>
 </div>
