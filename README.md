@@ -10,6 +10,7 @@ After forking this repo if you want you can remove the content below this. But i
 
 <div>
 <h1> Day 1 </h1>
+ <p> I am trying to make a social media platform using react and firebase</p>
  <p> read firebase tutorials, and created account </p>
  <p> things learned
    <ol>
@@ -37,6 +38,8 @@ After forking this repo if you want you can remove the content below this. But i
   <div>
 <h1> After Couple of Days..</h1>
  <p> motivation was lost, left it for couple of days, now starting again, with new energy </p>
+  <p> Made a mini project by watching a youtube video of webdev simplified</p>
+ - Project Repo : https://github.com/the-eppisai/JS_Clock-using-webdev-simplified- <br>
 </div>
  <div>
 <h1 style=font-size:200px> Day 1</h1>
